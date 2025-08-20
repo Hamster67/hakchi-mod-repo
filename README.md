@@ -1,5 +1,6 @@
 # H67M Chinese Translate Mod Repo
 from game.boxy.cn
+
 **Release Date:** 2025-08-20T23:49:18Z
 
 
